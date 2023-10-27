@@ -1,5 +1,4 @@
 # ArangoDB
-Pesquisa sobre DBs Distribuídos
 
 ArangoDB é um banco de dados de grafo/gráfico versátil e escalável que capacita as empresas a extrair informações acionáveis de dados complexos. Ele oferece uma combinação única de recursos de gráficos, documentos e pesquisa de texto completo, tornando-o ideal para casos de uso do mundo real. O banco de dados prioriza o desempenho, a segurança e a integridade dos dados, com certificações como SOC 2 e HIPAA, garantindo confiança e conformidade.
 
